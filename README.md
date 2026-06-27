@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hermes Plant
+<div><a href="https://hermesplant.com/"><img src="https://img.shields.io/badge/Hosted-Yes-blue" alt="Hosted Service"></a> <a href="https://hermesplant.com/changelog"><img src="https://img.shields.io/badge/Changelog-Live-success" alt="Changelog"></a></div>
+<p>⭐ Hosted service (Updated: 2026-06-26)</p>
+<p>💰 Finance & Quant APIs for AI Agents</p>
+
+<p>Deterministic finance and quant APIs that AI agents call and pay for per call over x402 — DCF, IRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, and AML screening. Also exposes an MCP server. No API keys, no data feeds, no hallucinated math.</p>
+
+<p><a href="https://hermesplant.com/">website</a> | <a href="https://hermesplant.com/mcp">mcp endpoint</a> | <a href="https://hermesplant.com/llms.txt">llms.txt</a> | <a href="https://hermesplant.com/changelog">changelog</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
