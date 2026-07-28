@@ -1274,13 +1274,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Hermes Plant
-<div><a href="https://hermesplant.com/"><img src="https://img.shields.io/badge/Hosted-Yes-blue" alt="Hosted Service"></a> <a href="https://hermesplant.com/changelog"><img src="https://img.shields.io/badge/Changelog-Live-success" alt="Changelog"></a></div>
-<p>⭐ Hosted service (Updated: 2026-06-26)</p>
-<p>💰 Finance & Quant APIs for AI Agents</p>
+<div><a href="https://hermesplant.com/"><img src="https://img.shields.io/badge/Hosted-Yes-blue" alt="Hosted Service"></a> <a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/badge/MCP-Open%20Source-green" alt="Open Source MCP Server"></a></div>
+<p>⭐ Hosted service (Updated: 2026-07-28)</p>
+<p>🛡️ Agent Action Safety & Commerce Assurance</p>
 
-<p>Deterministic finance and quant APIs that AI agents call and pay for per call over x402 — DCF, IRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, and AML screening. Also exposes an MCP server. No API keys, no data feeds, no hallucinated math.</p>
+<p>Preflight consequential agent actions, route approvals, enforce spend policy, and produce signed evidence across shell, Git, SQL, deploy, and x402 workflows. Available as a hosted Streamable HTTP MCP server and REST API, with a free API-key tier or USDC pay-per-call access over x402.</p>
 
-<p><a href="https://hermesplant.com/">website</a> | <a href="https://hermesplant.com/mcp">mcp endpoint</a> | <a href="https://hermesplant.com/llms.txt">llms.txt</a> | <a href="https://hermesplant.com/changelog">changelog</a></p>
+<p><a href="https://hermesplant.com/agent-services">website</a> | <a href="https://mcp.hermesplant.com/mcp">mcp endpoint</a> | <a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a> | <a href="https://hermesplant.com/.well-known/x402">x402 manifest</a></p>
 </div>
 
 ### Humane
